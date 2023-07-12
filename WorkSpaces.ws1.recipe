@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Imports a version'd pkg of the WorkSpaces app into Workspace One</string>
+	<string>Imports a DMG with the current release of Amazon WorkSpaces into Workspace One.</string>
 	<key>Identifier</key>
-	<string>com.github.matweuc.ws1.WorkSpaces</string>
+	<string>com.github.matweuc.ws1.AmazonWorkSpaces</string>
 	<key>ParentRecipe</key>
-	<string>com.github.matweuc.munki.WorkSpaces</string>
+	<string>com.github.jlehikoinen.munki.AmazonWorkSpaces</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
