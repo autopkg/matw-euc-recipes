@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Recipe description</string>
+	<string>Re-packages, and imports Extensis Universal Type Client 7 into WorkspaceOne.</string>
 	<key>Identifier</key>
 	<string>com.github.matweuc.ws1.UniversalTypeClient7</string>
 	<key>ParentRecipe</key>
