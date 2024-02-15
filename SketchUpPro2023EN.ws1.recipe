@@ -3,17 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads the latest version of SketchUp Pro 2023 EN and imports into Workspace One</string>
+	<string>Downloads the latest version of SketchUp Pro 2023 and imports into Workspace One.</string>
 	<key>Identifier</key>
-	<string>com.github.matweuc.ws1.SketchUpPro</string>
+	<string>com.github.matweuc.ws1.SketchUpPro2023EN</string>
 	<key>ParentRecipe</key>
-	<string>com.github.matweuc.munki.SketchUpPro2023EN</string>
+	<string>com.github.dataJAR-recipes.munki.SketchUp Pro 2023 EN</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
-		<string>SketchUp Pro</string>
-		<key>MUNKI_REPO_SUBDIR</key>
-		<string>apps/%NAME%</string>
+		<string>SketchUp Pro 2023</string>
 		<key>MUNKI_CATEGORY</key>
 		<string>Productivity</string>
 		<key>WS1_OAUTH_CLIENT_ID</key>
