@@ -13,7 +13,7 @@
         <key>SEARCH_URL</key>
         <string>https://www.triofox.com/management1/releasetriofox/latestdownloads.aspx</string>
         <key>SEARCH_PATTERN</key>
-        <string>[0-9a-z\.]+\/gladinetsupport/triofox/10065/MacClient.9_[0-9a-z\.]+\.dmg</string>
+        <string>[0-9a-z\.]+\/gladinetsupport/triofox/[0-9]+/MacClient.9_[0-9a-z\.]+\.dmg</string>
         <key>DOWNLOAD_URL</key>
         <string>https://s3.amazonaws.com/gladinetsupport</string>
     </dict>
